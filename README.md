@@ -1,6 +1,6 @@
-# Kalkulator Geometri
+# Geometry Calculator
 
-- Dibuat menggunakan Java Netbeans dengan konsep OOP
-- Program Kalkulator Geometri merupakan program untuk menghitung luas dan keliling suatu bangun
-- Bangun yang dihitung luas dan kelilingnya mencakup beberapa dari Bangun Datar dan Bangun Ruang
-- Untuk memenuhi nilai Ujian Akhir Semester mata kuliah Praktikum Pemrograman Berorientasi Objek
+- Created using Java Netbeans with the concept of OOP
+- Geometry Calculator Program is a program to calculate the area and perimeter of a building.
+- Buildings that are calculated in area and perimeter include some Flat Buildings and Spatial Buildings
+- To fulfill the value of the Final Semester Examination of the "Object Oriented Programming Practicum" course
